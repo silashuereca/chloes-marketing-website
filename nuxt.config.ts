@@ -10,7 +10,6 @@ export default defineNuxtConfig({
     "@nuxthq/studio",
     "@vueuse/nuxt"
   ],
-  target: "static",
   ui: {
     icons: ["heroicons", "lucide"],
   },
