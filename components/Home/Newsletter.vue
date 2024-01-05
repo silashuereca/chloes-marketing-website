@@ -2,7 +2,7 @@
   <div id="stay-in-touch">
     <div class="mb-6 flex items-center gap-3">
       <div
-        class="flex-none rounded-full p-1 text-primary-500 bg-primary-500/10"
+        class="flex-none rounded-full p-1 text-primary-500 bg-chlo-primary"
       >
         <div class="h-1.5 w-1.5 rounded-full bg-current"></div>
       </div>
